@@ -61,4 +61,4 @@ Make sure MySQL is running and accessible.
 
 Ensure proper environment variables (e.g., DB credentials) are configured if required.
 
-### Project done together with FROG (made the database)
+### Project done together with FROG (made the database).
